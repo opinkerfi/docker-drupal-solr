@@ -1,4 +1,4 @@
-# docker-adagios-rpm
+# docker-drupal-solr
 Docker image for Apache Solr with Drupal Search Api Integration
 
 [![Docker Stars](https://img.shields.io/docker/stars/opinkerfi/drupal-solr.svg)]()
@@ -24,6 +24,6 @@ For example http://192.168.x.x:8080 would show you what's running INSIDE the con
 
 * `-p 8983` - Port for solr endpoint
 
-For shell access whilst the container is running do `docker exec -it my-adagios /bin/bash`.
+For shell access whilst the container is running do `docker exec -it my-solr /bin/bash`.
 
 Additional documentation on how to add new cores can be found here https://hub.docker.com/_/solr/
