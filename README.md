@@ -1,10 +1,10 @@
 # docker-drupal-solr
 Docker image for Apache Solr with Drupal Search Api Integration
 
-[![Docker Stars](https://img.shields.io/docker/stars/opinkerfi/drupal-solr.svg)]()
-[![Docker Pulls](https://img.shields.io/docker/pulls/opinkerfi/drupal-solr.svg)]()
-[![GitHub tag](https://img.shields.io/github/tag/opinkerfi/drupal-solr.svg)]()
-[![GitHub release](https://img.shields.io/github/release/opinkerfi/drupal-solr.svg)]()
+[![Docker Stars](https://img.shields.io/docker/stars/opinkerfi/docker-drupal-solr.svg)]()
+[![Docker Pulls](https://img.shields.io/docker/pulls/opinkerfi/docker-drupal-solr.svg)]()
+[![GitHub tag](https://img.shields.io/github/tag/opinkerfi/docker-drupal-solr.svg)]()
+[![GitHub release](https://img.shields.io/github/release/opinkerfi/docker-drupal-solr.svg)]()
 
 ## Usage
 
