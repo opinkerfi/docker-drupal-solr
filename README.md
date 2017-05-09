@@ -14,6 +14,7 @@ docker create \
   -p 8983:8983 \
   opinkerfi/drupal-solr
 ```
+This image comes with one solr core configured and the name of this core is ```drupal```
 
 ## Parameters
 
